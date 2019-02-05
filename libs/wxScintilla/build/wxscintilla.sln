@@ -47,9 +47,7 @@ Global
 		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Release|x86.ActiveCfg = DLL Release|Win32
 		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Release|x86.Build.0 = DLL Release|Win32
 		{23E1C437-A951-5943-8639-A17F3CF2E606}.Release|x64.ActiveCfg = Release|x64
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.Release|x64.Build.0 = Release|x64
 		{23E1C437-A951-5943-8639-A17F3CF2E606}.Release|x86.ActiveCfg = Release|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
