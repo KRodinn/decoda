@@ -10,4 +10,3 @@ docs/output/*
 *.tlog
 *.log
 *.pdb
-*.lib

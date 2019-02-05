@@ -2,3 +2,4 @@ build/msw/vc_*/*
 build/vc_*/*
 bin/*
 .vs/*
+lib/*
