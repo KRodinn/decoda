@@ -2,3 +2,12 @@ build/*
 bin/*
 install/output/*
 docs/output/*
+*.VC.*
+*.user
+*.suo
+*.ipch
+*.obj
+*.tlog
+*.log
+*.pdb
+*.lib
